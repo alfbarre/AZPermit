@@ -1,0 +1,30 @@
+1, How many days do you have to inform the MVD of an  address change?,20 days, 10 days, 30 Days, 5 Days, 2
+2, When driving in fog you should..., Use Low Beam Headlights, Use High-Beam Headlights, Use no headlights, Pull over, 1
+3, How many seconds is the following distance in slippery conditions?, 5 seconds, 3 seconds, 6 seconds, 4 seconds, 3
+4, If you are in an intersection to turn left on a green dot and the light turns yellow what should you do?,Stay in the intersection, Reverse back to turn lane, Proceed with the turn,  None of the above, 3
+5,What does an octagon shaped sign mean?,Stop sign, Yield sign, Construction sign, School zone sign, 1
+6, At least how many feet should you be behind a police vehicle during an emergency?,300 feet, 400 feet, 100 feet, 200 feet, 1
+7, Steam coming from your vehicle hood may indicate what?, Your car battery has died, Your transmission has given out, Your brakes are failing,  Your cooling system has overheated, 4
+8, What is the legal alcohol limit in Arizona?, .04%, .012%,  .06%, .8%, 4
+9, If a school bus is dropping of or picking up children what must you do?, Stop and proceed with caution, Wait until the stop arm sign is unextended, Pass the school bus on the left lane, Yield to the right and wait for all pedestrians to cross, 2
+10, If you are parking downhill on a curb you should do what?, Keep your wheels straight ahead,Turn your rear wheels towards the curb, Turn your front wheels towards the curb, Turn your front wheels away from the curb, 4
+11, If you plan to turn beyond an intersection when must you signal?, Signal until you are in the intersection, Signal before you are in the intersection, Signal after you are in the intersection, Don't signal at all, 1
+12, What is the space between the roadway and the exit ramp on a freeway called?, The hazard area, The gore area, The emergency lane, The carpool lane, 2
+13, When emergency vehicle lights are activated behind you what must you do?, Brake immediately, Yield to the left, Yield to the right, Keep accelerating, 3
+14, How do you avoid the glare from oncoming headlights at night?, Keep your eyes focused on the road ahead, Focus your eyes on the lane markings, Focus your eyes on the headlights, Glance back and forth to the road , 4
+15, What is the penalty for the first conviction of driving under the influence?, 10 days of jail & $1250 fine, 30 days of jail & $2000 fine, 60 days jail & $1250 fine, 120 days jail &$2000 fine, 1
+16, When passing a bicyclist traveling in the same direction as you leave a distance of at least what?, 16 feet, 12 feet, 6 feet, 3 feet, 3
+17, It is illegal to follow fire emergency vehicles during an emergency within...,200 feet, 400 feet, 500 feet, 800 feet, 3
+18, If you are parking uphill and there is no curb you should..., Turn your wheels towards the edge of the road, Turn your wheels away from the road, Turn your rear wheels towards the road, Keep straight, 1
+19, The distance from you to the vehicle in front should be how many seconds?, 3 seconds, 2 seconds, 6 seconds, 4 seconds, 1
+20, The speed limit in a school crosswalk is..., 20 mph, 30 mph, 10 mph, 15mph, 4
+21, Where should you give the right-of-way to a pedestrian crossing the street?, Marked crosswalk, Any street, School crosswalk, No-where, 2
+22, Before you turn you must signal continuously for at least..., 200 feet, 300 feet, 50 feet, 100 feet, 1
+23, It is illegal to park if a crosswalk is within how many feet?, 20 feet, 15 feet, 10 feet, 5 feet, 2
+24, What type of collision is the most common?, Rear-end, front-end, t-bone, side-swipe, 1
+25, To prevent drowsiness on the road what must drivers do?, Stay focused on whats in front of them, Shift their eyes, Look upwards, Look downwards, 2
+26, What is the penalty for a first conviction of a traffic violation for a driver under 18?, Traffic school, Jail, Warning, None, 1
+27, What is the purpose of a head rest?, Keep your head from straining while driving, To help check blind-spots easier, Reduce chance of whiplash, None of the above, 3
+28, What does a yellow double-sided lane marker represent?, You can pass on your side, You can not pass at all, You can switch lanes, None of the above, 2
+29, How far ahead can a working horn be heard?, 200 feet, 800 feet, 600 feet, 300 feet, 1
+30, What is the speed limit in a residential area when none is posted?, 30 mph, 25 mph, 40 mph, 10 mph, 2 
